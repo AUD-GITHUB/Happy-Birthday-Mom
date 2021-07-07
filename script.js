@@ -1,0 +1,3 @@
+function playmusic() {
+    audio.play();
+}
