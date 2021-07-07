@@ -1,0 +1,62 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    text-align: center;
+}
+
+.travel_mainDiv {
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none
+}
+
+.travel_maindiv img {
+    width: 100%;
+}
+
+.travel_maindiv hr {
+    width: 230px;
+}
+
+.travel_maindiv h5,
+.travel_maindiv p {
+    margin-left: 20px;
+}
+
+.letter_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 50%;
+    display: inline-block;
+}
+
+#myCarousel {
+    background-color: lightpink;
+}
+
+#myCarousel img {
+    height: 500px;
+    margin-top: 35px;
+    width: 300px;
+}
+
+#letterpng {
+    width: 400px;
+}
+
+#letter_1 img {
+    border-radius: 25px;
+}
+
+.letter {
+    display: flex;
+}
+
+#letter_1 {
+    text-align: center;
+}
