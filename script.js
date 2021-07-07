@@ -1,3 +1,3 @@
 function playmusic() {
-    documant.getElementById("music").play();
+    document.getElementById("music").play();
 }
